@@ -1,10 +1,20 @@
-## Your Name
+## George Whiting
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusiastic Junior Developer and Physics Graduate looking to start a career in the exciting tech world of London.
+
+Since graduating from Bristol University with a degree in Physics with Astrophysics I have been studying at Makers Academy, an intensive developer bootcamp, in order to improve my ability in a skill that has interested me for years.
 
 ## Skills
 
-#### This Skill
+**Effective communicator**
+
+During my time at University, I had weekly lab sessions and was also involved in group projects. My lab partner and I had regular communication and productive sessions, producing excellent experimental results. In addition to this I frequently take opportunities to coach less experienced players in the sports I take part in. Pair programming is a huge part of the Makers Academy ethos, and is something I look forward to continuing throughout my career. My experiences prior to now have set me up in a position to work efficiently with anyone.
+
+**Fast Learner**
+
+I enjoy learning new skills; from teaching myself to write code in C for my University coursework, to learning a new instrument to fill a gap in the jazz band I played in. 
+
+<!-- #### Fast Learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,39 +22,88 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+- teach myself languages + instruments
+- learn tactics fast?
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Time management
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- project, computational coursework + EQC
+
+
+#### Confident communicator
+- retail job, engineering project, lab work etc
+
+#### Additional Skills
+- C
+- Agile, TDD, OOP
+- TeX
+- Novice level Spanish and German languages -->
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2017 - Feb 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A Highly selective 12 week developer bootcamp that puts emphasis on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Object-oriented design
+- Pair programming
+- Test driven development
+- Agile development
+
+I have spent time on the following technologies during my time at Makers Academy:
+
+- Ruby, Javascript, Java
+- Rails, Sinatra
 - RSpec, Jasmine
+- DataMapper, ActiveRecord
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Bristol (Oct 2013 - Jun 2017)
 
-#### Any other qualifications
+- BSc Physics with Astrophysics
+- 2:2
+- Including modules in computational physics in C
+- Project: ChaMP Radio Sources - Using a linux data reduction package (AIPS) to produce images of radio bright objects
+
+#### Fortismere School and Sixth Form (Sep 2007 - Jun 2013)
+
+- AAAB in Physics, Maths, Biology and Chemistry
+- 6A* 6A GCSE's, including 2 foreign languages
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Clifford Chance** (Summers of 2013 and 2014)    
+*Business Development Summer Intern*
+- Used a range of analytical techniques to identify formatting errors, duplicate entries and other inconsistencies in the client relationship management database (InterAction)
+- Managed data cleansing in order to prepare for major firm wide upgrade to the client management software
+- Ensured any relevant changes were updated on the live version of the firm's public website
+- Worked in the finance department gaining experience using Hyperion Database, Microsoft Access, and some more advanced techniques for Microsoft Excel  
+
+**North London Hospice Charity Shop** (2010 - 2012)   
+*Weekend Volunteer and Cashier*
+
+- Ran the till during the busy Saturday morning period, sorted and priced donations and handled customer requests in a polite manner
+
+## Extra-Curricular
+
+**University of Bristol Dodgeball Society** (2014-2017)
+*Vice President and Secretary*
+- Elected Vice President in my second year, volunteered as Secretary during my third
+- Helped organise and run weekly sessions for up to 50 members
+- Coordinated with 4 other Southwestern Universities to organise tournaments and friendly matches
+- Set up a network for regional Dodgeball societies to share contact information and events
+
+
+**EES Engineering Scheme** (Oct 2011 - May 2012)
+*Awarded Gold CREST award and EES National Certificate*
+- Worked with 3 teammates to produce a product prototype and a professional report, as well as give a presentation and host a Q&A to a panel of judges
+- Attended a 3 day skills workshop including seminars on management and report writing
+
+**Musical Qualifications**
+- ABRSM Grade 7 Piano, Grade 5 Clarinet and Theory of Music
+
+## Hobbies and Interests
+
+- **Music**: I play piano, clarinet and tenor saxophone, and was a member of the Bristol University Jazz Orchestra from 2013 to 2017.
+- **Dodgeball**: I spent 2 years as the vice president and then secretary of the dodgeball club at university. In addition to helping run weekly sessions I was responsible for organising tournaments and friendly matches between other nearby universities.
+- **Quidditch**: In my final year of University I joined Bristol Quidditch Club. We came second of 32 teams at our national championship and went on to compete at the European level.
