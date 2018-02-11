@@ -4,6 +4,37 @@ I am an enthusiastic Junior Developer and Physics Graduate looking to start a ca
 
 Since graduating from Bristol University with a degree in Physics with Astrophysics I have been studying at Makers Academy, an intensive developer bootcamp, in order to improve my ability in a skill that has interested me for years.
 
+## Education
+
+#### Makers Academy (Oct 2017 - Feb 2018)
+
+A Highly selective 12 week developer bootcamp that puts emphasis on:
+
+- Object-oriented design
+- Pair programming
+- Test driven development
+- Agile development
+
+I have spent time on the following technologies during my time at Makers Academy:
+
+- Ruby, Javascript, Java, Swift + iOS SDK
+- Rails, Sinatra
+- RSpec, Jasmine
+- DataMapper, ActiveRecord
+
+
+#### University of Bristol (Oct 2013 - Jun 2017)
+
+- BSc Physics with Astrophysics
+- 2:2
+- Including modules in computational physics in C
+- Project: ChaMP Radio Sources - Using a linux data reduction package (AIPS) to produce images of radio bright objects
+
+#### Fortismere School and Sixth Form (Sep 2007 - Jun 2013)
+
+- AAAB in Physics, Maths, Biology and Chemistry
+- 6A* 6A GCSE's, including 2 foreign languages
+
 ## Skills
 
 **Effective communicator**
@@ -12,7 +43,13 @@ During my time at University, I had weekly lab sessions and was also involved in
 
 **Fast Learner**
 
-I enjoy learning new skills; from teaching myself to write code in C for my University coursework, to learning a new instrument to fill a gap in the jazz band I played in. 
+I enjoy learning new skills; from teaching myself to write code in C for my University coursework, to learning a new instrument to fill a gap in the jazz band I played in. These skills came with deadlines attached, so a combination of speed and thoroughness was required in the learning. For my final project at Makers Academy I put the same learning process into effect, learning Swift and the iOS SDK in order to create an appstore-ready puzzle game in just 10 days.
+
+**Additional Skills**
+
+- C
+- TeX
+- Novice level Spanish and German languages
 
 <!-- #### Fast Learner
 
@@ -39,36 +76,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - TeX
 - Novice level Spanish and German languages -->
 
-## Education
-
-#### Makers Academy (Oct 2017 - Feb 2018)
-
-A Highly selective 12 week developer bootcamp that puts emphasis on:
-
-- Object-oriented design
-- Pair programming
-- Test driven development
-- Agile development
-
-I have spent time on the following technologies during my time at Makers Academy:
-
-- Ruby, Javascript, Java
-- Rails, Sinatra
-- RSpec, Jasmine
-- DataMapper, ActiveRecord
-
-
-#### University of Bristol (Oct 2013 - Jun 2017)
-
-- BSc Physics with Astrophysics
-- 2:2
-- Including modules in computational physics in C
-- Project: ChaMP Radio Sources - Using a linux data reduction package (AIPS) to produce images of radio bright objects
-
-#### Fortismere School and Sixth Form (Sep 2007 - Jun 2013)
-
-- AAAB in Physics, Maths, Biology and Chemistry
-- 6A* 6A GCSE's, including 2 foreign languages
 
 ## Experience
 
