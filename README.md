@@ -1,8 +1,20 @@
 ## George Whiting
 
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Extra-Curricular](#extra-Curricular) | [Hobbies and Interests](#hobbies-and-interests)
+
 I am an enthusiastic Junior Developer and Physics Graduate looking to start a career in the exciting tech world of London.
 
 Since graduating from Bristol University with a degree in Physics with Astrophysics I have been studying at Makers Academy, an intensive developer bootcamp, in order to improve my ability in a skill that has interested me for years.
+
+## Projects
+
+Complete list on my [Github](https://github.com/GeorgeWhiting)
+
+Project | Description | Timeframe | technologies
+---|---|---|---
+[Scrambled Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | A sliding picture puzzle game for iOS. | 10 Days | Swift, XCTest, Xcode
+[Ange.ry](https://github.com/GeorgeWhiting/ange.ry) | A restaurant that allows users to leave only negative reviews of restaurants local to them. | 5 Days | Ruby, Rails, RSpec, Capybara, HTML, CSS, BCrypt, ActiveRecord
+[MomLang](https://github.com/GeorgeWhiting/writing-a-programming-language) | A language that can do basic arithmetic, variable assignment and printing, and has a block structure. | 5 Days | Java, IntelliJ
 
 ## Education
 
