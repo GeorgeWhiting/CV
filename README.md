@@ -1,6 +1,6 @@
 ## George Whiting
 
-[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Extra-Curricular](#extra-Curricular) | [Hobbies and Interests](#hobbies-and-interests)
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Extra-Curricular](#extra-curricular) | [Hobbies and Interests](#hobbies-and-interests)
 
 I am an enthusiastic Junior Developer and Physics Graduate looking to start a career in the exciting tech world of London.
 
