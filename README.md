@@ -10,7 +10,7 @@ Since graduating from Bristol University with a degree in Physics with Astrophys
 
 Complete list on my [Github](https://github.com/GeorgeWhiting)
 
-Project | Description | Timeframe | technologies
+Project | Description | Timeframe | Technologies
 ---|---|---|---
 [Scrambled Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | A sliding picture puzzle game for iOS. | 10 Days | Swift, XCTest, Xcode
 [Ange.ry](https://github.com/GeorgeWhiting/ange.ry) | A restaurant that allows users to leave only negative reviews of restaurants local to them. | 5 Days | Ruby, Rails, RSpec, Capybara, HTML, CSS, BCrypt, ActiveRecord
